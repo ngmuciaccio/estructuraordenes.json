@@ -1,0 +1,22 @@
+{
+"OrderId":17654
+"Address":"San Juan 234",
+"Status":"En Preparacion",
+"Articles":[
+{
+    "name":"Filtro",
+    "Quantity": 123,
+    "Dangerous":false,
+}
+{
+    "name":"Aceite",
+    "Quantity": 354,
+    "Dangerous":true,
+}
+{
+    "name":"Combustible",
+    "Quantity": 4327,
+    "Dangerous":true,
+}
+]
+}
