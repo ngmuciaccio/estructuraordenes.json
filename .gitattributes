@@ -1,2 +1,9 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+```python
+git init
+git add
+git commit -m "api2 commit"
+git remote add origin https://github.com/ngmuciaccio/estructuraordenes.json.git
+git push -u origin master
+```
